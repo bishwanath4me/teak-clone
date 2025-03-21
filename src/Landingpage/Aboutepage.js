@@ -63,7 +63,6 @@ const Aboutepage = () => {
 
   useEffect(() => {
     startSliding();
-     
   }, []);
 
   return (
