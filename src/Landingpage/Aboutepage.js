@@ -16,7 +16,7 @@ const Aboutepage = () => {
   ];
   const [currentIndex, setCurrentIndex] = useState(0);
   const trackRef = useRef(null);
-  // const intervalRef = useRef(null);
+   
 
   const startSliding = () => {
     if (trackRef.current) {
@@ -63,7 +63,7 @@ const Aboutepage = () => {
 
   useEffect(() => {
     startSliding();
-    // return () => clearInterval(intervalRef.current);
+     
   }, []);
 
   return (
