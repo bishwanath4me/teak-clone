@@ -113,7 +113,7 @@ function FooterSection() {
             </div>
           </div>
           <div className="footer-social">
-            <p>Follow Us</p>
+            <p style={{fontWeight:"bold", marginBottom: "10px"}}>Follow Us</p>
             <div className="social-images">
               <img
                 src="https://scontent-bom2-4.cdninstagram.com/v/t39.30808-6/481665322_990129053317451_1478432817083607258_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=ZWcdPmXcQtgQ7kNvgHuGnTm&_nc_oc=AdkXLZJI3vQLQcSZ2idd6R1XmHfs-PSOAc_F3I378po3mRzC537zs2ZD27AZBEWWxt8&_nc_zt=23&_nc_ht=scontent-bom2-4.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=vNBiXY1lmBFACVXQ4zoGtA&oh=00_AYFZ1CTyHAYumd6RFhBC04oavhs_vDrK4PCHOSuUymsyWg&oe=67E0A874"
