@@ -140,7 +140,7 @@ const Botomheader = () => {
     <nav className="mega-menu">
       <div className="menu-header">
         <button className="hamburger" onClick={toggleMobileMenu}>
-          ☰
+        {isMobileMenuOpen ? "✖" : "☰"}
         </button>
         
       </div>
